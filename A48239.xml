@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to the unknown author of Jus populi</title>
+         </titleStmt>
+         <extent>Approx. 52KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48239</idno><idno type="EEBO-CITATION">31355409</idno>
+  <idno type="VID">110447</idno>
+  <idno type="EEBO-PROQUEST">2240880901</idno>
+  
+            <idno type="STC">Wing L1752</idno>
+            <idno type="STC">ESTC R41470</idno>
+            <idno type="OCLC">31355409</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48239)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110447)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1745:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to the unknown author of Jus populi</title>
+               </titleStmt>
+               <extent>45 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year, 1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound, and with print showthrough.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Parker, Henry. --  Jus populi.</term>
+               <term type="uniform_title">Jus populi.</term>
+               <term type="topical_term">Prerogative, Royal --  Early works to 1800.</term>
+               <term type="topical_term">Liberty.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110447:1"/>
+            <p>A LETTER, To the unknown AUTHOR OF <hi>JƲS POPƲLI.</hi>
+            </p>
+            <p>Printed in the Year, 1671.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:110447:2"/>
+            <pb n="3" facs="tcp:110447:2"/>
+            <head>A LETTER to the unknown Author of <hi>Jus Populi.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y ignorance of your Name, and the Place of your resi<g ref="char:EOLhyphen"/>dence, forceth me on this pub<g ref="char:EOLhyphen"/>lick Addresse, from which I should have been otherwise <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> verse: For, though faults committed be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ore all, ought to be publickly reproved; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>et, I would willingly have used our LORDS method, <hi>of telling my Brother in private, if <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> have ought against him.</hi> But, since this will find its way to you, better from the Press then by any direction I could give it, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he charity I owe all Christians obliegeth me to use the freedom of representing some <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hings to you, which I pray GOD you may <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eceive well, and ponder seriously.</p>
+            <p>But on the way, I must tell you, I have <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o quarrel at your person, neither do I so
+<pb n="4" facs="tcp:110447:3"/> much as know who you are; so that no particular consideration of your self draw<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> this from me. Next, I must assure you<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> I have no malice nor bitterness against tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Way which you own: And though I con<g ref="char:EOLhyphen"/>fess, I am highly displeased with some o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their Tenets, but more with their spirit an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> way of carrying on their Cause, yet may al<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the mischief I wish any of them, fall o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> my own soul. Therefore, as both my tem<g ref="char:EOLhyphen"/>per and conscience barr all heat and violen<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cy from any way of arguing differences<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> So in writing to you at this time, I desig<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> your conviction, and not your confusion Indeed, Sir, all the passion that your Book or such other discoveries of that spirit, af<g ref="char:EOLhyphen"/>fects me with, is grief and regrate: Nei<g ref="char:EOLhyphen"/>ther do I so much as perceive within m<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> self, any commotions of wrath and anger a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> you or your way; pity and compassio<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> being truly the strain in which all my thoughts concerning you do run.</p>
+            <p>GOD is witness, what groans and tear<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> those furious and unchristian distempe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that are raised among us, do draw daily fro<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> some of us, whom you are persecuting wit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="5" facs="tcp:110447:3"/> so much bitter (but I trust blind) zeal. Can <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ny man, who is in any degree concerned <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>or GOD'S Glory or the advancement of true Religion, look on without the saddest heart <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n the World, when he sees the great de<g ref="char:EOLhyphen"/>signs of Godliness and Piety suffering so much, from some who pretend so highly, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd yet are more concerned for a few incon<g ref="char:EOLhyphen"/>siderable and disputable Opinions, then for <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>harity, meekness, peace, unity, and obedi<g ref="char:EOLhyphen"/>ence to Authority, and are at more pains <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o promote these particular niceties, then <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>or carrying on the great Ends for which Christ died and rose again: Can it be de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ied, that there is a generation, who was <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nce by appearance seriously minding their <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ouls, but now the edge of their affections <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eing taken off that noble exercise, is bent <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n <hi>foolish and unlearned questions which <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ender strife, and the perverse disputings of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>en of corrupt mindes?</hi> When these ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ellent lessons of charity, patience, humi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ity, meeknesse and true holinesse are laid <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>side, how many are better pleased to hear the Bishops railed at, then to hear GOD magnified or CHRIST commended? And
+<pb n="6" facs="tcp:110447:4"/> how many ears do itch to hear the faults o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the times severely inveighed against, but fret when their own sores are in the least touched? In a word, Religion is ruining, and CHRIST is again betrayed by some wh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with <hi>Judas</hi> kiss him, and say, <hi>Hail, Master,</hi> when they sell him for the gratifying of thei<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> passions and humours. What a spirit of cen<g ref="char:EOLhyphen"/>suring, traducing, bitter railing, rash judging, angry fury, and forging and publishing of ca<g ref="char:EOLhyphen"/>lumnies and lies, is too legible among ma<g ref="char:EOLhyphen"/>ny, who (perhaps) were they not strangely mis-tuned, might mean well, and are hones<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> at bottom? But these things have dissolv<g ref="char:EOLhyphen"/>ed the Ligaments and Bonds of CHRISTS Body; and as in the natural Body, every slackening of the Nerves brings with it a weakness over all the Members; So, the bonds of peace and unity being thus untied▪ we clearly see what draws on the decaye<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of Piety and true Religion among us.</p>
+            <p>These things affect serious beholders with deep, as well as just regrates; So that their souls having dwelt long with them that hate peace, they are daily panting fo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> an escape from the contentions and confu<g ref="char:EOLhyphen"/>sions
+<pb n="7" facs="tcp:110447:4"/> here below, unto those happy Regions of peace and joy above, where even such as <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>annot be now tuned into harmony, shall all sing a constant and concordant Halelujah. But next to those sweet hopes and desires, who would not, with <hi>Jeremiah,</hi> look out <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>or <hi>a place in some wilderness, and a lodge of way-faring men, that he might wander far <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ff, and hasten his escape from the windy storm and tempest?</hi> Think not, Sir, that all <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>his is the effect of my zeal for Episcopacy, No, no; it is the great Bishop of souls whom you are doing what in you lyes, to depose from His Government and King<g ref="char:EOLhyphen"/>dom, which is neither <hi>in meats nor drinks,</hi> neither in Episcopacy nor Presbytery, but <hi>in righteousnesse and peace, and joy in the holy Ghost.</hi>
+            </p>
+            <p>I do indeed believe, that Episcopacy is not only in nothing contrary to the Word of GOD, but may prove, if well managed, a very proper mean for advancing all the ends of Religion: And that from the dayes of the Apostles, it was that form of Govern<g ref="char:EOLhyphen"/>ment under which the Church of GOD was planted in most places, and grew up every
+<pb n="8" facs="tcp:110447:5"/> where, during her best and purest times<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and whatever abuses the succession of many Ages might have insensibly brought upo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it, it is still of it self innocent; and hence it is that I give a chearful obedience to the Laws that have established it. But, from this free Declaration you may see, I am no furious Zealot; for indeed it was never in my thoughts to advance the asserting o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Episcopacy to a divine right and absolute necessity, or to condemn such Churches; where both the Civil and Ecclesiastick frame are cast in a different mould: Hence it is that I quarrel with none on this Head, unlesse it be to vindicate my own perswa<g ref="char:EOLhyphen"/>sion; which I am much deceived if I can<g ref="char:EOLhyphen"/>not do, notwithstanding of all I ever saw alledged on the contrary.</p>
+            <p>My expostulating with you shall be free both of railery and injury, though if I had intended either, you have laid your self open to great disadvantages. Indeed your Buf<g ref="char:EOLhyphen"/>fonery is both so dull and so little serious, that I am ashamed of it; neither am I so destitute of fancy, but that I could easily make your poor little flashes of a left-hand<g ref="char:EOLhyphen"/>ed
+<pb n="9" facs="tcp:110447:5"/> wit rebound on your self, so that you should be the object of all mens scorn. But believe me, I am in a more serious mood; neither shall I mingle- in the levi<g ref="char:EOLhyphen"/>ties of fancy with so grave a subject; and I hold it below a man, and unworthy of a Christian, to rail: wherefore I shall in so<g ref="char:EOLhyphen"/>ber sadness, lay before you a few serious truths.</p>
+            <p>The first notice I had of your Book, was from some of your own Party, who no<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>withstanding of their great inclinations to the way of Presbytery and the Covenant, were highly dissatisfied with <hi>Jus Populi,</hi> and confessed, they found it written in a strain so different from the meeknesse of Christ, that they thought it prejudged, ra<g ref="char:EOLhyphen"/>ther then advanced, the Cause it seemed to defend. This put an edge upon my cu<g ref="char:EOLhyphen"/>riosity, which is blunt enough for such Pieces: I was indeed desirous to see a Book which had a part of one of the blessings of the Gospel, <hi>since all men</hi> (even of all per<g ref="char:EOLhyphen"/>swasions) <hi>spoke evil of it.</hi> I had occasion also to meet with some good Ministers of that Perswasion, who in sad language de<g ref="char:EOLhyphen"/>clared
+<pb n="10" facs="tcp:110447:6"/> to me their dislike of your Book, and told me, they knew not one of all their Brethren who had not the same sense of it. This made me wonder what a work that could be, which was so severely condemned even by these who might justly be suspect<g ref="char:EOLhyphen"/>ed of partiality in your favours: At length I got hold of the Book it self, which did fully justifie all their censures; So that often since I first saw it, I have been forced to reflect with much sorrow on the sad estate of the Church of GOD among us, when such stuff shall be so confidently vented.</p>
+            <p>And first, that humour of scurrilous rai<g ref="char:EOLhyphen"/>lery, which appears in every Page, especial<g ref="char:EOLhyphen"/>ly in your foolish Postscript, is so unseemly that I wonder how, though you want pru<g ref="char:EOLhyphen"/>dence, you should be so void of gravity Truly, Sir, such language may do tolerably upon a Stage; but certainly, it becomes a Church-man (and such you are said t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be) very ill, when he is treating about se<g ref="char:EOLunhyphen"/>rious purposes. Is this the method of <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> or the Prophets, of CHRIST or his Apo<g ref="char:EOLunhyphen"/>stles? Whom of all the approved Writen
+<pb n="11" facs="tcp:110447:6"/> of the Church in any age, finde you hand<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing grave matters in Burlesque? Hath <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>his way any thing in it that is decent or <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>omposed? Oh! Sir, consider to how much <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ntemperance your ill-managed zeal hath <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed you, that you may be ashamed of it: But that you think not I esteem your rai<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ery to be sharp, I must tell you, it is the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oursest of any I ever met with, being with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut either edge or point, and made up of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ome flat dull reflections, which any who would give way to so much feminine pas<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ion, might have said with a thousand-fold more of life, and in far better language. If <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> designed your infamy, I could here set <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>own so much proof for what I have alledg<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d, that I am sure even your self would <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lush at it; for every Page is full of those <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nstances. But, my desire to you, and for <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ou to GOD, is, that you may in cold blood <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eflect on that writing; which if you do with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> serious and humble, and not with a self-<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ustifying and Pharisaical temper, I doubt <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ot but your thoughts of it will be so full of shame and remorse, that you will need <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ather lenitives to allay, then incentives to
+<pb n="12" facs="tcp:110447:7"/> provoke, your further resentments. Besides, Sir, no man loves to rake in a puddle no<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> dwell in a kennel: therefore, I am not abl<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to master the great aversion I have from such stuff, so far as to spend the time and pains were necessary for pumping up of al<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that putrid matter. I think it too much that I read it once in your Book, and so an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in no inclination to write out any of these unhandsome and ill-said passages.</p>
+            <p>But this leads me to another reflection, near of kin to the former, upon the bitter an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> un-exempled railing with which you hav<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> stuffed your Book. This contradicts the law<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of nature, and civilities of mankind, as wel<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> as the rules of the Scriptures, wherein w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> are taught <hi>to speak evil of no man, not to b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> brawlers but gentle, and not so much as to ren<g ref="char:EOLhyphen"/>der railing for railing, but contrary waye<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> blessing, seing we are called to inherit a bles<g ref="char:EOLhyphen"/>sing.</hi> And truly, to fall on the persona<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> defaming of an Antagonist, is a course a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> foolish as impious: for, what though you<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> opposit were as bad as you call him, doe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that prejudge our Cause, or advance you<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> own? On the contrary, the wiser of man<g ref="char:EOLhyphen"/>kind,
+<pb n="13" facs="tcp:110447:7"/> when they find the Advocats of a Party falling on such methods, from that very thing, are apt to suspect the weaknesse of the Cause, since such as defend it are dri<g ref="char:EOLhyphen"/>ven to those unhandsome shifts. Neither are <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he stories men vent of their Antagonists <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o be believed by any living; since all the World think, they are bound to look on <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hem but as the blasts of passion, which as <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t is ever credulous, so is often fraudulent, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd therefore never to be credited in ear<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>est. Sir, I cannot look on your Book with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut wondering, how your pen could serve <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ou in this office.</p>
+            <p>And let me speak home to your con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>cience, and charge you, as before that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>reat GOD, <hi>who shall one day judge the secrets <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f all hearts,</hi> to consider what spirit acted <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ou, when you wrote this Book. Were <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ou then in a serious and humble temper? Were you depending upon GOD for directi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n, and adhering to him in the exercises of Faith and Love? And did you tenderly de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ign his Glory, with the good of your Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rey-men? or, were you not driven by an <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nward tide of bitter passions? Found you
+<pb n="14" facs="tcp:110447:8"/> not the distempers of rage and anger eatin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> up your breast? and did you not give wa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to all the blasts of your splen, and the over<g ref="char:EOLunhyphen"/>flowings of your gall? Alas, Sir, if I w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ashamed at your railery, I am grieve<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for your scolding; which discovers you temper to be far enough from CHRISTS<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>who when he was reviled, reviled not again</hi> but bore all the injuries and affronts malic<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> could put on him, without opening h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> mouth. Have you considered these word<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>love your enemies, blesse them that curse you do good to them that hate you, and pray fo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> them who despitefully use you and persecu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> you, that you may be the children of your F<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ther which is in Heaven?</hi> But if you wi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> not learn Christianity from the Gospel,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> could send you to the heathen Philoso<g ref="char:EOLunhyphen"/>phers to be taught Morality by them, wh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> have said that on this head, which shall ri<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> up in judgement against you, if you repen<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> not.</p>
+            <p>And indeed you seem to affect an impar<g ref="char:EOLunhyphen"/>tiality in your scolding, that you may no<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> appear guilty of respect of persons. And it like, you count it your glory, <hi>to despise do<g ref="char:EOLunhyphen"/>minions
+<pb n="15" facs="tcp:110447:8"/> and speak evil of dignities:</hi> though <hi>Michael the Arch-angel durst not bring up a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ailing accusation against the Devil.</hi> St. <hi>Paul</hi> confessed his mistake, when he had uttered <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eviling words even against a mercinary and an unjust High-priest, and acknowledged <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t was written, <hi>thou shall not speak evil of the Ruler of thy people.</hi> But it must be confest, that your procedor hath nothing of that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eserve in it; and I am afraid you think it a peece of noble Gallantry, to have railed at King, Parliament and Council: But, Sir, <hi>have you so learned Christ?</hi> and is this your obedience to the fifth Command, when you expresse both how much your self disho<g ref="char:EOLhyphen"/>nours the Father of your Countrey, and how desirous you are to dethrone him out of the affections and esteem of his Subjects? For, our <hi>Gracious Soveraign</hi> (whom GOD <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ong preserve to reign over us) he needs no vindications from the calumnies you asperse him with: since his clemency and gentle<g ref="char:EOLhyphen"/>nesse even to all his enemies, hath been the discourse and wonder of Christendom. And the favours he hath granted that Party which you seem to own, are so unparalelled,
+<pb n="16" facs="tcp:110447:9"/> that your language of him is as full of ingra<g ref="char:EOLunhyphen"/>titude as of disloyalty. Yet, because yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> are not able to deny this, you betake you<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> self to a strange course of traducing hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> goodnesse, as well as accusing his justice<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> as if the former were designed for ensnaring and abusing his Subjects: And this impu<g ref="char:EOLhyphen"/>tation you divide betwixt his Majesty an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his most honourable Privy Council: using all the arts your Politick and Rhetorick can furnish you with, to hinder his Subject<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> from enjoying the happy quiet they may have under his Government. Pray, Sir, i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> this the language of a Minister of the Go<g ref="char:EOLhyphen"/>spel and a Peace-maker? or, is it not th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> stile of an Incendiary? What! and hath no<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> all the blood we have seen shed in <hi>Britain<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> quenched your thirst? are you not satisfie<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that our fields were covered with the Bo<g ref="char:EOLhyphen"/>dies of the slain, and our scaffolds smoake<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> so long with the blood of Prisoners, tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> one King was murthered, another banisht fo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> so many years, and that our Countrey wa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> over-run and sore opprest? and is not all thi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> enough for your zeal? <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or, do you long to see the same tragedies re-acted? and would
+<pb n="17" facs="tcp:110447:9"/> you again blow up the people to a new re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>llion? Truly, if this be your design (and can scarce divine what other construction <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ur Book can admit of) let me tell you <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eely, I must look upon you as an Agent of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ll, and not as a Servant of CHRIST, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ce I am sure, <hi>Beelzebub</hi> could not contrive <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ore mischief then this would draw after <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> But in managing of it, you have gone <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> foolishly to work, that, blest be GOD, no <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rms nor earthquakes are like to follow <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on what you have done: for truly, you <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>m as free of the wisdom of the Serpent, of the innocence of the Dove.</p>
+            <p>But after your carreer against the King <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d Council, the Bishops and their Clergy <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the objects of your fury and indignati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Truly, by your Character of them, it <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uld appear, that they had blasphemed <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>D, renounced CHRIST, destroyed his <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>urch, overthrown Religion, persecuted <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Saints, and what not? and that they are <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> filth and off-scourings of the world, and company of profane, ignorant, carnal <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>etches. With this and much more of this <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d, do you charge them; and therefore,
+<pb n="18" facs="tcp:110447:10"/> in a grave mood, you advise the hanging o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> them up before the Sun, for the expiatin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the sins and guilt of <hi>Scotland.</hi> But, thank<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be to GOD, though we be bad enough, w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> are not so bad as you represent us. I con<g ref="char:EOLunhyphen"/>fesse, there are many things among us o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of joynt, and we are far from the primiti<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and apostolical Purity; so that there b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> too just grounds for very much sorrow, t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> any who shall ponder matters seriously<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> But all this will not justifie your misca<g ref="char:EOLunhyphen"/>riage, who by what you say of us, seem<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> design our infamy, and not our reformatio<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> But, good Sir, could you shake your sel<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> little out of your immoderate heats, I shou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> tell you, that there hath been no Age n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Society of men, who might not be charg<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with very grosse imputations; and were as unbridled in my humour as you are,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> could here recriminat too sadly: But, y<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> mention not these things as one th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> mourns for them, and wishes to see the corrected, but as one who insults over the and glories because of them; beware the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fore of the curse of <hi>Canaan,</hi> since you<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> guilty of the crime of <hi>Ham,</hi> who discove<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his Fathers nakednesse.</p>
+            <pb n="19" facs="tcp:110447:10"/>
+            <p>But, your reproaches are as unjust as cruel; for we want not men among us, of whom we may glory, who may be upon all ac<g ref="char:EOLhyphen"/>counts compared (to say no more) with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ny of the other perswasion. If I be a fool for glorying thus, you have compelled me <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o it; and I speak nothing but what is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nown to all, who are but so far indifferent <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s to be ingenuous. But, alas! whither will your malice drive you? and whence is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t that you give so loose reins to your irre<g ref="char:EOLhyphen"/>gular passions? Is it not enough, that for a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ourse of many years, all who owned the Episcopal Perswasion were cruelly tossed <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd persecuted? Is it not enough that we <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>re mis-represented at home, being traduced <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd reviled by our ill-willers, whereby our <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eople are provoked to contemn, abuse <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd separate from us? And can there be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o measures nor bounds set to our persecu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ions from your tongues; but when you have <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>one all you can against us at home, you must go among strangers to defame us? All <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> shall answer, is, <hi>The Lord rebuke thee.</hi> GOD knows how to vindicate the oppressed <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nnocency of his poor servants; and he will
+<pb n="20" facs="tcp:110447:11"/> in due time clear up our righteousnesse which you study to overcloud. It is our par<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>to bear the indignation, because we have sin<g ref="char:EOLunhyphen"/>ed, and to wait patiently for the end of th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Lord:</hi> But, we trust, he will in his goo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> time discover your unjust malice, and o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> sincerity. For my part, I must acknow<g ref="char:EOLunhyphen"/>ledge my self as bad as you can either thin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> or call me; yet, whatever be my sailing before God, I write as one who hath obtain<g ref="char:EOLunhyphen"/>ed grace in some measure, to be faithful i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Ministery wherein GOD hath put me and therefore, I value not your reproache<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> except it be to pity your malice: and I<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> very earnestly pray, that GOD may show yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> what spirit you are of, and convince you<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> your errours, which are indeed both ma<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and grosse.</p>
+            <p>Having given you thus far my free sen<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the strain of your Book, and of the sp<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rit which seems to have acted you in t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> contriving and composing it; my ne<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> work shall be, to put you in minde of so<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> things that relate to the matter of it, a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> chiefly, of the whole design of it, which to provoke the Subjects of <hi>Scotland</hi> to R<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>bellion:
+<pb n="21" facs="tcp:110447:11"/> And in order to this, you have <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>amed a large Systeme of Politicks, where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ith it seems you are highly satisfied: But, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> shall not ravel far into this intangled mat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er, conceiving it a Theme without my <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>here, and (with pardon be it spoken) with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut yours likewise: yet, your part in this <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>as very easie, since you have done little, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eside the putting of <hi>Lex Rex</hi> into another <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ethod; So that your Book deserves best <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he Title of <hi>The second edition of</hi> Lex Rex, <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll of new errata and mistakes.</hi> But, I could <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>sily cut off all that contexture of Policy, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y two Positions, neither of them hard to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e evinced. The first is, that by imme<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>orial possession, and a long tract both of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aw and Practice, the King of <hi>Scotland</hi> is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> absolute Soveraign, accountable only to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>OD, and not to be controlled by the force <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his Subjects: But more especially, that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Subjects of <hi>Scotland</hi> are bound to obey <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Laws enacted in Parliament; or at least, to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>bmit to the enacted Mulcts and Punish<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ents. And though the first branch of this <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>osition, concerning the Kings Power, hath <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>een called in question, yet you have the
+<pb n="22" facs="tcp:110447:12"/> honour to be the first who controverts th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Authority of King and Parliament. Bu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the perpetual practice of <hi>Scotland</hi> befo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the year, 1648. will easily determine a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that are not totally strangers to our Consti<g ref="char:EOLunhyphen"/>tutions, that Laws agreed to by King an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Parliament, are and must be of force, till r<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pealed by the same Authority that enjoyn<g ref="char:EOLunhyphen"/>ed them. If this be true, then all yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> long winded Systeme will evanish in a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Idea,</hi> since we are not to examine what w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the first rise of Societies, Magistrates<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Kings; or what is the nature of the com<g ref="char:EOLunhyphen"/>pact, betwixt a King and his Subjects: Ne<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther are we to be determined by the prece<g ref="char:EOLunhyphen"/>dent of the Kings of <hi>Judah, Israel,</hi> or oth<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Nations; our work being only to conside<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> what is the right wherewith our King stan<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> now invested, and what is the obedience<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which we are engaged. And if it be fou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> (as undoubtedly it will) that the Subjec<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of <hi>Scotland</hi> are oblieged to obey, or suffe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> according to the Laws and Acts of Parli<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ment, no shift will escape this, unlesse yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> prove such a Constitution simply unlawfu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and contrary to the expresse Law of God<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="23" facs="tcp:110447:12"/> which will be very hard to do, as long as you allow of no other Canon, then the Books of both Testaments. But, if such submission be contrary to the Law of GOD, then it will not only be warrantable, but necessary for Subjects to defend themselves; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd if so, they are self-murtherers who suf<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er willingly, when they are in any capacity to resist: but, I hope your zeal will not drive you so far as this goes. Alas! can there be no way for vindicating your Tenets, out that which must asperse all the glorious cloud of Witnesses, not only with too much <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>amenesse, but with an impious and dege<g ref="char:EOLhyphen"/>nerated baseness of minde; since by your Doctrine, those on whom all the Ages of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he Church have lookt as glorious Mar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>yrs, must now pass for ignominious self-murtherers. But, I know, you hope to escape by the distinction of Religion, when <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t becomes a Land-right and settled by Law, from what was before it was so esta<g ref="char:EOLhyphen"/>blisht; and that in the former case, we may <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd ought to fight for it, though not in the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>atter. But, Sir, this runs contrary to what you alwayes maintain, that we must defend
+<pb n="24" facs="tcp:110447:13"/> all our natural Rights, of which undoubted<g ref="char:EOLhyphen"/>ly Religion is the first and chief: So tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> if your Systeme of Policy hold good, eve<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> before Religion be established, it is one o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the natural Rights of the Society, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> therefore, every Law that contradicts it, i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to be rejected, as contrary to the natura<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and essential Liberties of the Subjects. But if our obligation to defend Religion b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Armes, be only because it is a Land-right<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> then certainly, that flows from the Autho<g ref="char:EOLunhyphen"/>rity of King and Parliament, they being th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> only Subjects of the Legislative Power<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> And certain it is, that they who have th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Authority to make a Law, can also unmak<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and repeal it, so that after they have repeal<g ref="char:EOLunhyphen"/>ed it, it is no more a Land-right, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> therefore, according to your own concessi<g ref="char:EOLunhyphen"/>on, is not to be fought for.</p>
+            <p>You might have spared your pains<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> proving, that the King cannot obliege<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by his Laws, to break the Commandmen<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of GOD. Our Soveraign hath his Powe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> from GOD, and acknowledgeth himself t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be under Him and His CHRIST. An<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that doctrine of hell, broached by its Age<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="25" facs="tcp:110447:13"/>
+               <hi>Leviathan,</hi> which pleads, that we are bound to obey all Laws, good or bad, just or un<g ref="char:EOLhyphen"/>just, even though their contradiction to the divine Law were not our and apparent, is de<g ref="char:EOLhyphen"/>servedly condemned as impious and athe<g ref="char:EOLhyphen"/>istical. But, the inference you would draw from this, is truly worthy of your self; that because, when the Magistrate commands what is contrary to the Law of GOD, we are not bound to obey him, therefore, when he punisheth contrary to that same Law, we are not bound to suffer: Indeed, such a Sophism might be excused in a Boy who is learning Logick, but is unpardonable in one who writes Books, and pretends to teach the World. For, in the case of the Kings enjoyning what is contrary to the Law of GOD, the countermand from GOD is supposed to be clear; and so it is beyond doubt, we should obey GOD rather then man; but, where are our sufferings counter<g ref="char:EOLhyphen"/>manded, though he punish unjustly? And besides, much less sufficeth to warrant a forbearance, wherein we are not only passive and do nothing, then will justifie a positive acting: So, when we suffer, we are only
+<pb n="26" facs="tcp:110447:14"/> passive, but we cannot resist without being active; therefore, except our warrand for that be expresse, we must resolve on a part forbearance.</p>
+            <p>I will trace your politicks no further, my chief design being to convince you, that matters of Religion are not to be decided by the sword. And here it is that you dis<g ref="char:EOLhyphen"/>cover your spirit to be totally different from CHRISTS, and that you have not consi<g ref="char:EOLhyphen"/>dered rightly the nature of the Christian Religion, or of the Kingdom of CHRIST, when you think his servants should fight for him. I know you will say, should any thing be so dear to us as Religion, and should we not hazard life and all we have in its de<g ref="char:EOLhyphen"/>fence? But this, though it may be plausible and taking with the vulgar, bewrayes your ignorance visibly: For it seems you ap<g ref="char:EOLhyphen"/>prehend, Religion can be endangered by the opposition it meets with from the World. No, no, Sir, CHRISTS Throne is better settled; <hi>for he shall sit at his Fathers right hand, till all his enemies shall be made his foot stool:</hi> All the hazard can be apprehen<g ref="char:EOLhyphen"/>ded, is of our lives, fortunes and liberties
+<pb n="27" facs="tcp:110447:14"/> and if we had the courage to submit these to GODS Providence, we should see Reli<g ref="char:EOLhyphen"/>gion were so far from danger, by being ob<g ref="char:EOLhyphen"/>jected to persecution, that nothing did more secure nor advance it. The truth of the matter is, that we apprehend our own prejudice too sensibly, though the advan<g ref="char:EOLhyphen"/>tage our holy profession receives from pa<g ref="char:EOLhyphen"/>tient suffering be apparent. But upon this whole matter, I shall modestly suggest a few things.</p>
+            <p>The great design of the Gospel is, to elevate our mindes to a noble contempt of this World, with all its trifling pleasures and interests, and to a just dis-regard of our Bodies, as the depressing loads which hang about and bow down our mindes; that so, living like <hi>Pilgrims on earth,</hi> we may alwayes bend forward and mount up<g ref="char:EOLhyphen"/>ward, little concerned in what meets us here below, having fixed our thoughts and <hi>affections on those things that are above:</hi> And <hi>it is by faith and patience that we most inherit the promises, for he that believeth must not make haste.</hi> Therefore, as we ought to trust to our heavenly Father his
+<pb n="28" facs="tcp:110447:15"/> care in all our straits; so we must chearfully acquiesce in his holy Will, how contrary soever it appear, either to our carnal inte<g ref="char:EOLhyphen"/>rests or humane reasonings, patiently wait<g ref="char:EOLhyphen"/>ing for that issue of things, which his wife Providence will bring forth in the fittest time. Now, let all the World judge, whither suffering or fighting agree best with this temper and design. The har<g ref="char:EOLhyphen"/>mony the one hath with it being evident, whereas the other speaks out a forward and impatient minde, deeply concerned in worldly losses and hazards, distrustful of GODS promises, and uncapable to wait his leisure.</p>
+            <p>Again, for I will but name things, that course from which carnal and corrupt na<g ref="char:EOLhyphen"/>ture is most averse, and which cannot be gone about without a great temper of mind, and an high measure of the divine assistance, as it is certainly the sublimer path, so is more proper to convince the world that such men are of God, when notwithstand<g ref="char:EOLhyphen"/>ing of their power to secure themselves from storms and fears, <hi>they bear patiently the spoiling of their goods; neither are their
+<pb n="29" facs="tcp:110447:15"/> lives dear to them for the Name of Jesus.</hi> It must be confest, that this is a strong evi<g ref="char:EOLhyphen"/>dence to all who look on, that such per<g ref="char:EOLhyphen"/>sons are not of this world, but of heaven, and that they are acted by some inward, mighty Principle from above, which stifles all their resentments into that quiet and calm submission. But on the contrary, of when we are injured and suffer wrongfully, we break out into fighting and contenti<g ref="char:EOLhyphen"/>on, Is not this to give way to the fury of passionate nature, and to follow the guise of the World? Such methods may well make others suspect, but will never force them to esteem, either us or our Profes<g ref="char:EOLhyphen"/>sion. And you know, a wicked man may fight couragiously for CHRIST, though he cannot suffer patiently; and therefore, the one is from Nature, and the other of Grace. And thus it appears, that suf<g ref="char:EOLhyphen"/>fering brings glory to our Profession, where<g ref="char:EOLhyphen"/>as fighting and warring asperseth it with jealousies and reproaches.</p>
+            <p>Further, the method which agreeth best with the Practices and Precepts of our great Master, is certainly to be preferred by all
+<pb n="30" facs="tcp:110447:16"/> his followers. <hi>He blessed those who shoul<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> suffer for him, but threatned such as dre<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the sword: And he blessed the peace-makers entitling them the children of God:</hi> Bu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> where are the Incendiaries of War pro<g ref="char:EOLhyphen"/>nounced happy? And whose children mu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> we conclude the bourteseus of Rebellio<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to be, but <hi>his who was a murtherer from the beginning?</hi> And certainly, such a breath out war and cruelty, know not o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> what spirit they are of; since all in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> dispensation is gentle and peaceable; It<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Author is <hi>the God of peace,</hi> it's Lord <hi>th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Prince of peace,</hi> it's Rule <hi>the Gospel<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> peace,</hi> it self consisting <hi>in righteousness, peac<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and joy in the holy Ghost:</hi> And all th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> was signally confirmed by the un-exemp<g ref="char:EOLunhyphen"/>led sufferings of our meek and low? Master, who refused the aid of the swor<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> entailing perdition on such as should dr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it; who are all these that are not war<g ref="char:EOLhyphen"/>ranted so to do by the Magistrate,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> whose only hands GOD hath depositat<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it. He witnessed that good confessio<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> before <hi>Pilate,</hi> that <hi>Cesar</hi> needed appr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>hend no hazard from his Kingdom, <hi>f<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="31" facs="tcp:110447:16"/> it not being of this world, was not to be fought for by his servants.</hi> And it is strange, that through the whole Gospel we should meet with repeated blessings pronounced on those who suffer, but never an en<g ref="char:EOLhyphen"/>couragement nor blessing entailed upon such as fight with the carnal weapons: Neither is there any thing pretended for this, beyond that one mistaken word of CHRISTS to his Disciples, that they should <hi>sell their coats to buy a sword.</hi> But certainly, had his Disciples, after they were filled with the holy Ghost, under<g ref="char:EOLhyphen"/>stood this of the material sword, either their Practices or Writings should have had some vestiges of that sense; and you know, neither can be alledged.</p>
+            <p>It's true, at that time they mistook his meaning, and shewed him two swords, but his answer <hi>[It is enough]</hi> corrects their errour, for that cannot relate to the two swords they shewed him, since how could two swords be enough for eleven persons. So that by that short answer, our LORD on<g ref="char:EOLhyphen"/>ly broke off the purpose, it being equiva<g ref="char:EOLhyphen"/>lent to <hi>enough of this,</hi> or <hi>no more of it,</hi> finde
+<pb n="32" facs="tcp:110447:17"/> he saw they mis-understood his forme words of a sword, which were only a gene<g ref="char:EOLhyphen"/>ral phrase of an allarm to them to look for straits and hardship. But, from all this it will easily appear, to one who examines the matter without prejudice, whether suffer<g ref="char:EOLhyphen"/>ing or fighting have the clearest characters of the meekness of Christ on them.</p>
+            <p>Finally, that Doctrine which tends most to the recommending of the Christian Re<g ref="char:EOLhyphen"/>ligion to all Princes and States, is to be pre<g ref="char:EOLhyphen"/>ferred to that which I may prepossesse the mindes of all with the deepest prejudices against it. Indeed, <hi>Mahomets</hi> Alchoran incites with the fair hopes of great rewards, to kill all who are not <hi>Musulmans,</hi> and hath been propagated and maintained by the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> edge of the sword. But, our holy Profes<g ref="char:EOLhyphen"/>sion rejects the carnal weapons from its de<g ref="char:EOLhyphen"/>fence; and therefore, is not to be lookt on as on apple of contention, or an occasion for warres, which since they spring from our lusts, cannot take their rise from that which enjoyns the mortifying of them all. In<g ref="char:EOLhyphen"/>deed, Religion teacheth the duties both of obedience to Soveraigns, and of peace<g ref="char:EOLhyphen"/>ablenesse
+<pb n="33" facs="tcp:110447:17"/> towards fellow-subjects, so fully, that nothing can secure either the Autho<g ref="char:EOLhyphen"/>rity of Princes, or the Peace of Societies, so entirely, as the receiving, believing and practising of this heavenly Doctrine. And this alone, though it serve not to convince the world of its truth, yet may sufficiently secure them of its innocency, and that no <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ad consequences may be apprehended from <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t. But, indeed, the Doctrine of resist<g ref="char:EOLhyphen"/>ance will change its whole visage, so that this dayes star, whose aspects are benign and serene, will look like a fiery Comet, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lazing Warres, and portending commo<g ref="char:EOLhyphen"/>tions and alterations of States. For, if this Principle be drunk in by the Christian Societies, they may for ever despair of peace, since it is not to be expected, that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ll can be of one minde in matters of Religion; and therefore, any side or par<g ref="char:EOLhyphen"/>ty when opprest, would undoubtedly raise <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tirs and tumults, how soon they were <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n a capacity: And sure your friends would find it a hard pull, to govern any State <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n the world at this rate, especially if you keep up your old quarrels, not on<g ref="char:EOLhyphen"/>ly
+<pb n="34" facs="tcp:110447:18"/> at Toleration, but Moderation. And from this Principle, what peace were to be expected from Papists? since their Re<g ref="char:EOLhyphen"/>ligion being establisht in the fullest form, continued in a long course of possession, so that it became a Land-right, and wa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> more interwoven in our Laws, then any thing you can pretend to: But, none o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> all these hazards are to be apprehende<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> nor feared, if the Doctrine of patient peaceable suffering were received; where<g ref="char:EOLhyphen"/>fore, it is certainly more for the interes<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of Mankind, and the peace of all So<g ref="char:EOLhyphen"/>cieties.</p>
+            <p>But, after I have gone this far wit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> you, let me bespeak your looking bac<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with a serious survey of these two diffe<g ref="char:EOLunhyphen"/>rent methods of advancing Religion, th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> comparing them in true ballances, yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> may see whither of them will preponde<g ref="char:EOLunhyphen"/>rate: And if to all this, I should add th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> bad effects of War, especially of a civ<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> one, I should have a large Theme: Bu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> our wounds are too fresh, and the la<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Tragedies too recent in our memorie<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to need any long excursions for makin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="35" facs="tcp:110447:18"/> out of this. It were a long story to reckon <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o all the advantages that peace carries <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ong with it for a religious life, even <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hough its termes were very uneasie; the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uiet retirement it affords being none of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he least of them. But, when a Land <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> become the scene of War, all must <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rgo their peaceful solitude for a life of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ussling and contention, engaging in ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y distractions, anxieties, solicitudes, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uds and daily hazards. Truly, Sir, what<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ver attractives such things may have to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n ambitious and daring minde that thirsts <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>or Glory, I cannot see what should com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>end them to one who designs the good <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f Souls, or the advancement of the Gos<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>el. Besides, in all such Warrs, the suc<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>esse is at best doubtful; yea, the very <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rmy imployed for managing of the ador<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d Cause, may in the end prove more <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>yrannical, then could have been appre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ended from those against whom they <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ngaged; which was our late case.</p>
+            <p>I will next attempt the convincing of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ou, by some instances from Scripture, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat fighting is none of the methods ap<g ref="char:EOLhyphen"/>proved
+<pb n="36" facs="tcp:110447:19"/> of by GOD for advancing his cause When the <hi>Israelites</hi> were in <hi>Egypt,</hi> the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> were opprest to the highest degree, bot<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in their Religion, Lives and Liberties, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> these lasted about an hundered years a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> least, since <hi>Moses</hi> was fourscore years o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> when he was sent to deliver them, and th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> oppression was begun before he was bon<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Neither were the <hi>Israelites</hi> contemptib<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for strength, since six hundered thousan<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> fighting men, might attempt the conque<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the whole earth: And <hi>Pharaohs</hi> tit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> over them was not so well founded as on<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> conquest. But, how comes it, that all th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> while they were so ignorant of their na<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ral rights, that they made no violent a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tempts for their liberty, or the free exerci<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of their Religion; since no doubt they h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> a traditional Religion conveyed to the with the Circumcision? And how com<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it, that <hi>Moses</hi> understood nothing of th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> gallant doctrine? not a hint of it appeari<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> either in his discourses to <hi>Pharaoh,</hi> or to<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Israelites.</hi>
+            </p>
+            <p>But the next instance shall be yet stron<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>er, when <hi>Jeroboam made Israel to sin,</hi>
+               <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="37" facs="tcp:110447:19"/> setting up the calves, discharging the Tribes <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o go to <hi>Jerusalem,</hi> and turning out the Priests and Levites out of their Cities: <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat was a time, if every any was for a <hi>popu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ar Reformation;</hi> for Religion was to that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eople, not only a settled land-right, but <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he very right and title they had to the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>vading and possessing of the land: And <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>et no attempts were made to redresse this <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y force. It is true, you may say, the Tribes <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ere too guilty of a defection, to be very <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ctive in a Reform. But, if that was their <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uty, how comes it, since none were so <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ealous of the Law as to offer at it, that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>one of the Prophets (though they freely <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ccused their defection) ever required them <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o fall to these popular courses, or to pull <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>own the calves by force: for if that was <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he peoples duty, their silence had been sin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>l; and yet, neither <hi>Ahijah</hi> the <hi>Shilonite, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>oseah, Amos, Micah,</hi> or any other Prophet, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ught this Doctrine. Yea, though <hi>Achab</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dded the <hi>Idolatry of Baal</hi> to the sin of the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lves, yet <hi>Elijah</hi> (though far enough from <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eing over indulgent to that wicked King) ever stirred up the people to armes. It is
+<pb n="38" facs="tcp:110447:20"/> true, himself once executed vengeance o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Priests of <hi>Baal,</hi> but he did that as a Pro<g ref="char:EOLhyphen"/>phet, it being ordinary in that dispensati<g ref="char:EOLhyphen"/>on, for acknowledged Prophets to act autho<g ref="char:EOLunhyphen"/>ritatively, but he never sounded an allar<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of War among the people, though ther<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> were divers thousands who never bowe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their knee to <hi>Baal.</hi> Likewise in <hi>Judah</hi> though divers Kings set up groves and hig<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> places, and <hi>Achaz</hi> did totally destroy th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Temple-worship, by removing the Alta<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> from its place, so that the people were to sa<g ref="char:EOLhyphen"/>crifice on the Altar, framed from the patte<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of that of <hi>Damascus:</hi> and though <hi>Manasse</hi> defiled the whole Courts of the Lord<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> House with Idols, and set up an Idol i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Temple it self: to which Idolatry the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> also added the height of tyrany, <hi>Jerusa<g ref="char:EOLunhyphen"/>lem</hi> swiming in Blood with <hi>Manasseh's</hi> cru<g ref="char:EOLunhyphen"/>elty: And who knows but that cruelt<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> was exercised on those who would no<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> comply with his Idolatry? Yet, it seem those men of <hi>Judah</hi> knew nothing of yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> generous politicks; Otherwise they h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> taken a shorter method for their redresse neither is this tamenesse ever charged o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="39" facs="tcp:110447:20"/> them by <hi>Isaiah</hi> or any other of the Pro<g ref="char:EOLhyphen"/>phets, as luke-warmnesse in the Cause of GOD. And if these of <hi>Libnah</hi> revolted out of their zeal against <hi>Jehoram's forsak<g ref="char:EOLhyphen"/>ing the Lord God of his fathers,</hi> and if that was justified and approved; it is strange, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat during the reign of worse Kings, no others followed their example, and that none of the Prophets encouraged them to the like undertaking.</p>
+            <p>Truely, you must confesse these instances to be strong: for as in these cases the Apo<g ref="char:EOLhyphen"/>stacy from Religion was undoubted, so the peoples submission, with the silence of the Prophets, though they be negatives, yet do prove convincingly, that they were strangers to that doctrine, which you would draw from the Law and dictates of Nature. And all this will be the more binding, if it be considered, that in the dispensation of <hi>Moses,</hi> the use of the sword was more allowed then under the Gospel; they being warranted to invade the peo<g ref="char:EOLhyphen"/>ple of <hi>Canaan,</hi> and put them all to the edge of the sword; and these was suitable to that frame which consisted much in
+<pb n="40" facs="tcp:110447:21"/> externals, and had annext to it the pro<g ref="char:EOLhyphen"/>mises of an <hi>earthly Canaan,</hi> with much prosperity and length of dayes in it. But, under the Gospel we are called to bea<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Crosse alwayes, but no where to draw the sword: therefore, if the use o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that, in matters of Religion, was not al<g ref="char:EOLunhyphen"/>lowable of old, it will be much lesse so now. And I leave it with all free mindes to consider, whither the instances I alledg<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> make it not clearer, that at that time it was not allowed; then your little ni<g ref="char:EOLhyphen"/>blings at some disjointed places, do the contrary.</p>
+            <p>For, the first ages of the Church, yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> are forced to yeeld their unacquainted<g ref="char:EOLhyphen"/>nesse with this doctrine, which yet had Christs words about the sword been expounded by your glosse, could not have escaped their knowledge. Neither will the distinction of Religions being a land right, serve the turn here: for be<g ref="char:EOLhyphen"/>sides what was already marked upon that head, after Christianity was settled by <hi>Constantine, Julian</hi> apostatized to Idolatry, and not only set up the Pagan
+<pb n="41" facs="tcp:110447:21"/> Worship again, but was using very poli<g ref="char:EOLhyphen"/>tick arts to root out the Gospel, and i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> end was beginning to persecute. As al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o, <hi>Constantius</hi> and <hi>Valens</hi> establisht Aria<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ism, and persecuted the Orthodox; yet, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o Church-man ever animated the peo<g ref="char:EOLhyphen"/>ple to, or justified Insurrections. And <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> will positively and upon all hazards as<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ert this historical Point, that till the eleventh Century, that Pope <hi>Gregory</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he seventh swelled to the Antichristian <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eight of usurping over Kings, the Do<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>trine of Subjects resisting their Soveraigns <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y force, upon pretence of Religion, was <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nheard of in the Church of GOD: mark, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat I speak of the Doctrine, and not of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ome particular instances, since there are <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o crimes but some Christians have been <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uilty of them; but as these actions were <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ot justified, so the Doctrine was not <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>wned; therefore, the date of this Opi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ion must be drawn from the ignorantest <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd worst of Ages, wherein Antichrist <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>as rising to his Meridian, in the per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on of that Monster <hi>Hildebrand:</hi> And <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ad I the leisure or humour for such a
+<pb n="42" facs="tcp:110447:22"/> tedious and unpleasing Task, I could ea<g ref="char:EOLhyphen"/>sily demonstrat, that all the grounds o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> which either you, or others whose pla<g ref="char:EOLhyphen"/>gary you are, do go on this matter, are borrowed from these Writings which as<g ref="char:EOLhyphen"/>sert the Popes absolute, transcendent and temporal Dominion over all Princes and States. Yet, as bad as the Roman Church is, even this Doctrine was never agreed to in it, many of that Communion hav<g ref="char:EOLhyphen"/>ing directly appeared against it: And it's chief Patrons were the <hi>Canonists</hi> of old and the <hi>Jesuits</hi> of late. For informati<g ref="char:EOLhyphen"/>on in all this, if your curiosity reach such Writings, I refer you to the col<g ref="char:EOLhyphen"/>lection of the Pieces that past in thi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Controversie, which are gathered to<g ref="char:EOLhyphen"/>gether and published in many great Vo<g ref="char:EOLhyphen"/>lumnes by <hi>Goldastus;</hi> or to bring yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> nearer our own times, to the ground on which the late League of <hi>France</hi> wa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> framed and defended: read any of th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Writings of the Spanish Divines that ju<g ref="char:EOLunhyphen"/>stified it, and it will appear, that all th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> grounds on which you walk, are borrowe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and stollen from them.</p>
+            <pb n="43" facs="tcp:110447:22"/>
+            <p>And thus, if you be capable of con<g ref="char:EOLhyphen"/>viction, I have said enough for your cure: <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut if you be past hope, I can add no more, but commit your recovery to the <hi>Great Physician of souls,</hi> in whose skillful hand no Patient can miscarry, and with whom, <hi>what is impossible with men, is not only possible, but easie:</hi> And indeed you need many prayers, for I must add this one severe word, that I do very much apprehend <hi>you are in the gall of bit<g ref="char:EOLhyphen"/>terness,</hi> when you are capable of belch<g ref="char:EOLhyphen"/>ing up such stuff. All this while, I have taken no notice of the matter on which you found all your tragical complaints and cruel insinuations, which you take for granted to be the Cause of GOD; where<g ref="char:EOLhyphen"/>in, if all along I have not contradicted you, it was that I might ruffle you as little as was possible, and so I might ad<g ref="char:EOLhyphen"/>vance your cure with the less pain. But, I could blot much Paper on this head, for convincing you, that the matters which you so highly magnifie, are far from what you apprehend them to be; and that they have neither that truth nor
+<pb n="44" facs="tcp:110447:23"/> importance which you suppose to be in them. But, I shall not adventure too far at once on your patience, which I fear is already over-spent; only ere we part, I must take notice of the Post<g ref="char:EOLhyphen"/>script you have set down at the fag end of your Book, wherein you break out in the most unsampled peece of railing I ever met with; all your quarrel being, because the <hi>Archbishop</hi> of <hi>St. Andrews</hi> said in a Sermon, that <hi>the Subjects lives were more the Kings then their own.</hi> I per<g ref="char:EOLhyphen"/>ceive there would be no holding of you, if you had real advantages, when you are so insolent without any: But, I shall say only one thing to convince you of the truth of that Position: When a Sub<g ref="char:EOLhyphen"/>ject hath committed a crime that is ca<g ref="char:EOLhyphen"/>pital, he hath no right to be the exe<g ref="char:EOLhyphen"/>cutioner of justice on himself, but cer<g ref="char:EOLhyphen"/>tainly the King hath, and so <hi>his life is more in the Kings power then in his own.</hi> As for instance, though you be guilty of Rebellion and Treason, in as high a de<g ref="char:EOLhyphen"/>gree as your poor abilities can serve you to; yet, I should be heartily sorry, if
+<pb n="45" facs="tcp:110447:23"/> your remorse for it carryed you so far, as to be a Fellon on your self, and turn your own Hangman; but it cannot be denyed, if you were in the hands of Ju<g ref="char:EOLhyphen"/>stice, your Soveraign should have very much reason for making you an example to all such desperate Incendiaries: But, I protest sincerely, I wish your repentance, and not your ruine.</p>
+            <p>I have not taken notice of a multitude of particular trips that met me as I run thorow your Book; but indeed, the total of it was so bad, that I choosed rather to examine it in bulk, then by retail: And now I leave you to better hands, wishing I had more reason to subscribe my self,</p>
+            <closer>
+               <signed>Your assured Friend and humble Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
